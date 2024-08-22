@@ -20,7 +20,7 @@ This project is a simple Python application that simulates an inventory manageme
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/MAJIDKIUMBHAR/vending-machine.git
+    git clone https://github.com/majid-kumbhar/vending-machine.git
     cd vending-machine
     ```
 
