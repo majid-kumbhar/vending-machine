@@ -21,7 +21,7 @@ This project is a simple Python application that simulates an inventory manageme
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/MAJIDKIUMBHAR/vending-machine.git
-    cd your_repository_name
+    cd vending-machine
     ```
 
 2. **Run the Application**:
